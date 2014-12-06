@@ -1,0 +1,9 @@
+Git mediawiki demonstration
+
+Underneath this line are all the users that have managed to clone the repository, make changes to it, commit these changes and push these changes back to the online repository.
+
+
+Afolabi
+
+
+has worked on this repository.
